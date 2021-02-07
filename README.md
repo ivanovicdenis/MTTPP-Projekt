@@ -1,9 +1,8 @@
 # MTTPP-Projekt
 
 ## Testiranje rada stranice https://www.calculator.net/
-github.com/ivanovicdenis/MTTPP-Projekt/blob/main/README.md
 ### Izvršeno je parcijalno testiranje frontenda i backenda stranice
-* Testirano je otvaranje svih pojednih konvertera koji se nalaze na homepage stranice
+* Testirano je otvaranje svih pojednih konvertera koji se nalaze na homepageu stranice
 * Testiran search bar stranice
 * Testiran je rad komponente RandomNumberGenerator
 * Testiran je rad komponente AgeCalculator koji računa godine osobe za određeni datum
@@ -11,8 +10,8 @@ github.com/ivanovicdenis/MTTPP-Projekt/blob/main/README.md
 
 ## Upute za pokretanje testova
 
-### Testovi su pisani u C# programskom jeziku korištenjem NUnit Frameworka i Selenium WebDriver
-### Testovi su implementirani u VisaulStudio 2019 programu
+#### Testovi su pisani u C# programskom jeziku korištenjem NUnit Frameworka i Selenium WebDriver
+#### Testovi su implementirani u VisaulStudio 2019 programu
 
 ### Da bi uspješno pokrenuli testove protebno je imati instalirano na računalo sljedeće programe:
 * VisualStudio 2019 (ili noviji)
@@ -22,7 +21,7 @@ github.com/ivanovicdenis/MTTPP-Projekt/blob/main/README.md
 1. Klonirajte repozitorij sa linka https://github.com/ivanovicdenis/MTTPP-Projekt.git
 2. Pokrenuti **TestiranjeProjekt.sln** datoteku
 3. Pokrenuti testove klikom na **Run All Test** unutar **Test** (Test->Run All Tests)
-4. Ako želimo pokrenuti pojedinačno neki test kliknemo na **Test Explorer** unutar **Test** (Test->Test Explorer)
+4. Ako želimo pokrenuti pojedinačno neki test otvorimo **Test Explorer** unutar **Test** (Test->Test Explorer)
 
 ### Dodavanje paketa
 #### Ukoliko se iz nekog razloga nisu automatski dodali paketi koji se nalaze u *packages* folderu na repozitoriju potrebo ih je ručno intalirati
