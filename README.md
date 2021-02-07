@@ -6,7 +6,7 @@
 * Testiran search bar stranice
 * Testiran je rad komponente RandomNumberGenerator
 * Testiran je rad komponente AgeCalculator koji računa godine osobe za određeni datum
-* Testirana je komponenta LenghtConverter detaljno tako što je testirana točnost računanja konverzije centimetara u ostale mjerne duljine
+* Testirana je komponenta LenghtConverter detaljno tako što je testirana točnost računanja konverzije centimetara u ostale mjerne duljine (dohvaća izračunate vrijednosti sa stranice i uspoređuje ih sa vrijednostima izračunatim u klasi ConvertCentimeters.cs)
 
 ## Upute za pokretanje testova
 
