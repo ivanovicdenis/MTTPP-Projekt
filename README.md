@@ -13,7 +13,7 @@
 #### Testovi su pisani u C# programskom jeziku korištenjem NUnit Frameworka i Selenium WebDriver
 #### Testovi su implementirani u VisaulStudio 2019 programu
 
-### Da bi uspješno pokrenuli testove protebno je imati instalirano na računalo sljedeće programe:
+### Programi koje je potrebno imati na računalu:
 * VisualStudio 2019 (ili noviji)
 * Firefox Browser
 
